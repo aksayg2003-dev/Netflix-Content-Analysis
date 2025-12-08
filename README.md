@@ -47,4 +47,10 @@ Netflix has expanded global content rapidly in the last decade — especially fr
 ---
 
 ## 📁 Project Structure
+Netflix-Content-Analysis/
+│
+├── visuals/                         # Charts & plots
+├── netflix_analysis.ipynb           # Jupyter Notebook
+├── netflix_titles.csv               # Dataset (if included)
+└── README.md                        # Project Documentation
 
