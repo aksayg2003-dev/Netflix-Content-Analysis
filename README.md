@@ -49,8 +49,32 @@ Netflix has expanded global content rapidly in the last decade — especially fr
 ## 📁 Project Structure
 Netflix-Content-Analysis/
 │
+
 ├── visuals/                         # Charts & plots
 ├── netflix_analysis.ipynb           # Jupyter Notebook
 ├── netflix_titles.csv               # Dataset (if included)
 └── README.md                        # Project Documentation
 
+🚀 How to Run This Project
+
+-- Clone the repository --:
+
+git clone https://github.com/yourusername/Netflix-Content-Analysis.git
+
+-- Install required Python libraries --:
+
+pip install pandas numpy matplotlib seaborn
+
+-- Open the notebook --:
+
+jupyter notebook netflix_analysis.ipynb
+
+📌 Conclusion
+
+This project provides a clear understanding of Netflix’s content trends through data analysis and visualization.
+It highlights how genres, countries, and release years vary across the platform, and demonstrates how EDA can be used for decision-making and storytelling.
+
+⭐ Author
+
+Akshay G
+Feel free to connect with me on LinkedIn and explore more projects on GitHub.
