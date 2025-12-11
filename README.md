@@ -76,9 +76,12 @@ git clone https://github.com/aksayg2003-dev/Netflix-Content-Analysis.git
 
 pip install pandas numpy matplotlib seaborn
 
--- Open the notebook --:
+Open the notebook in Google Colab by uploading the file:
 
-jupyter notebook netflix_analysis.ipynb
+1. Go to https://colab.research.google.com
+2. Click “Upload”
+3. Select netflix_analysis.ipynb
+
 
 📌 Conclusion
 
