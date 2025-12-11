@@ -59,7 +59,7 @@ Netflix-Content-Analysis/
 
 -- Clone the repository --:
 
-git clone https://github.com/yourusername/Netflix-Content-Analysis.git
+git clone https://github.com/aksayg2003-dev/Netflix-Content-Analysis.git
 
 -- Install required Python libraries --:
 
