@@ -76,5 +76,6 @@ It highlights how genres, countries, and release years vary across the platform,
 
 ⭐ Author
 
-AKSHAY G,
+AKSHAY G
+
 Feel free to connect with me on LinkedIn and explore more projects on GitHub.
