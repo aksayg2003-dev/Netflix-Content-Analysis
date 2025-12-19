@@ -61,6 +61,15 @@ Top 10 Genres on Netflix
 
 Rating distribution of Netflix content
 
+## 🖼️ Dashboard Preview
+
+### Executive Summary
+![Executive Summary Dashboard](visuals/dashboard_page1.png)
+
+### Geographic & Content Breakdown
+![Geographic & Content Breakdown Dashboard](visuals/dashboard_page2.png)
+
+
 ✨ Key Features
 
 Interactive slicers (Release Year range)
