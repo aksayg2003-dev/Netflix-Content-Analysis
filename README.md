@@ -30,52 +30,14 @@ This project provides insights into Netflix’s catalog of Movies and TV Shows. 
 - Key fields: Title, Type, Genre, Country, Release Year, Description
 
 ---
-📊 Netflix Content Analysis Dashboard (Power BI)
-📌 Project Overview
+📊 Power BI Dashboard – Netflix Content Analysis
 
-This project presents an interactive Power BI dashboard that analyzes Netflix’s global content library.
-The goal is to understand content distribution, growth trends, geographic reach, genres, and ratings using clear KPIs and visual storytelling.
+This Power BI dashboard provides an interactive, executive-level analysis of Netflix’s content library, focusing on content volume, type distribution, geographic reach, genres, ratings, and release trends.
 
-The dashboard is designed in a client-friendly executive style, focusing on insights rather than raw data.
+📑 Dashboard Pages
+1. Executive Summary
 
-🧰 Tools & Technologies Used
-
-Power BI Desktop
-
-Power Query (Data Transformation)
-
-DAX (Measures & KPIs)
-
-Dataset: netflix_titles.csv
-
-🔄 Data Preparation (Power Query)
-
-The following transformations were performed:
-
-Removed unnecessary columns
-
-Cleaned null and inconsistent values
-
-Split duration into:
-
-Duration_Value
-
-Duration_Type (Minutes / Seasons)
-
-Extracted Year Added from date
-
-Standardized country and genre fields
-
-Renamed columns for clarity
-
-✔ Result: Clean, analysis-ready dataset
-
-📄 Dashboard Pages
-🔹 Page 1: Executive Summary
-
-Purpose: High-level business overview
-
-KPIs
+High-level KPIs and overview of Netflix content:
 
 Total Titles
 
@@ -83,66 +45,65 @@ Total Movies
 
 Total TV Shows
 
-Visuals
+Movies vs TV Shows distribution (Donut chart)
 
-Donut Chart: Movies vs TV Shows Distribution
+Content added over time (Year-wise trend)
 
-Line Chart: Netflix Content Added Over Time
+Release year range slicer
 
-Release Year Range Slicer
+2. Geographic & Content Breakdown
 
-Netflix banner for branding
+In-depth analysis of Netflix’s global content:
 
-✔ Designed for quick decision-making
-
-🔹 Page 2: Geographic & Content Breakdown
-
-Purpose: Detailed content insights
-
-Visuals
-
-Top 10 Countries by Netflix Content
+Top 10 Countries by Netflix content
 
 Top 10 Genres on Netflix
 
-Rating Distribution of Netflix Content
+Rating distribution of Netflix content
 
-Features
+✨ Key Features
 
-Top-N filtering
+Interactive slicers (Release Year range)
 
-Data labels for clarity
+Clean, client-ready layout with KPI cards
 
-Clean layout with minimal clutter
+Multi-page dashboard design to avoid clutter
 
-✔ Helps understand regional dominance and viewer targeting
+Visual storytelling using bar charts, line charts, and donut charts
 
-✅ Project Outcome
+Optimized for executive and analytical users
 
-This dashboard demonstrates:
+📂 Power BI File
 
-End-to-end Power BI workflow
+netflix.pbix – Power BI dashboard file (available in this repository)
 
-Strong data cleaning skills
+🖼️ Dashboard Preview
 
-Effective use of DAX
+Executive Summary
 
-Business-oriented dashboard design
+Geographic & Content Breakdown
 
-Ability to communicate insights clearly
+(Screenshots included in the repository)
 
-📈 Key Insights
+🔍 Key Insights
 
-Movies dominate Netflix’s content library
+Movies dominate Netflix’s content library compared to TV Shows
 
-Content growth accelerated after 2016
+Netflix content has grown rapidly after 2015
 
-United States leads in total content production
+The United States contributes the highest number of titles
 
 International Movies and Dramas are the most popular genres
 
-TV-MA and TV-14 are the most common ratings
+TV-MA and TV-14 are the most common content ratings
 
+📁 Files Included
+
+netflix.pbix – Power BI dashboard file
+
+Dashboard screenshots (PNG)
+
+Source dataset (netflix_titles.csv)
 
 ---
 
