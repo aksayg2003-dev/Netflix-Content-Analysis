@@ -30,6 +30,117 @@ This project provides insights into Netflix’s catalog of Movies and TV Shows. 
 - Key fields: Title, Type, Genre, Country, Release Year, Description
 
 ---
+📊 Netflix Content Analysis Dashboard (Power BI)
+📌 Project Overview
+
+This project presents an interactive Power BI dashboard that analyzes Netflix’s global content library.
+The goal is to understand content distribution, growth trends, geographic reach, genres, and ratings using clear KPIs and visual storytelling.
+
+The dashboard is designed in a client-friendly executive style, focusing on insights rather than raw data.
+
+🧰 Tools & Technologies Used
+
+Power BI Desktop
+
+Power Query (Data Transformation)
+
+DAX (Measures & KPIs)
+
+Dataset: netflix_titles.csv
+
+🔄 Data Preparation (Power Query)
+
+The following transformations were performed:
+
+Removed unnecessary columns
+
+Cleaned null and inconsistent values
+
+Split duration into:
+
+Duration_Value
+
+Duration_Type (Minutes / Seasons)
+
+Extracted Year Added from date
+
+Standardized country and genre fields
+
+Renamed columns for clarity
+
+✔ Result: Clean, analysis-ready dataset
+
+📄 Dashboard Pages
+🔹 Page 1: Executive Summary
+
+Purpose: High-level business overview
+
+KPIs
+
+Total Titles
+
+Total Movies
+
+Total TV Shows
+
+Visuals
+
+Donut Chart: Movies vs TV Shows Distribution
+
+Line Chart: Netflix Content Added Over Time
+
+Release Year Range Slicer
+
+Netflix banner for branding
+
+✔ Designed for quick decision-making
+
+🔹 Page 2: Geographic & Content Breakdown
+
+Purpose: Detailed content insights
+
+Visuals
+
+Top 10 Countries by Netflix Content
+
+Top 10 Genres on Netflix
+
+Rating Distribution of Netflix Content
+
+Features
+
+Top-N filtering
+
+Data labels for clarity
+
+Clean layout with minimal clutter
+
+✔ Helps understand regional dominance and viewer targeting
+
+🎨 Design & UX Decisions
+
+Dark background for a modern Netflix-style theme
+
+White KPI cards for contrast and readability
+
+Minimal colors to avoid visual overload
+
+Clear titles and labels for non-technical users
+
+📈 Key Insights
+
+Movies dominate Netflix’s content library
+
+Content growth accelerated after 2016
+
+United States leads in total content production
+
+International Movies and Dramas are the most popular genres
+
+TV-MA and TV-14 are the most common ratings
+
+
+---
 
 ## 🧠 Key Insights (Results)
 
