@@ -117,15 +117,19 @@ Clean layout with minimal clutter
 
 ✔ Helps understand regional dominance and viewer targeting
 
-🎨 Design & UX Decisions
+✅ Project Outcome
 
-Dark background for a modern Netflix-style theme
+This dashboard demonstrates:
 
-White KPI cards for contrast and readability
+End-to-end Power BI workflow
 
-Minimal colors to avoid visual overload
+Strong data cleaning skills
 
-Clear titles and labels for non-technical users
+Effective use of DAX
+
+Business-oriented dashboard design
+
+Ability to communicate insights clearly
 
 📈 Key Insights
 
